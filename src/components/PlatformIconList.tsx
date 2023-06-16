@@ -16,6 +16,10 @@ import { IconType } from "react-icons/lib";
 interface Props {
   platforms: Platform[];
 }
+
+/**
+ * Renders playform icons.
+ */
 const PlatformIconList = ({ platforms }: Props) => {
   const iconMap: { [key: string]: IconType } = {
     pc: FaWindows,
