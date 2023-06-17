@@ -1,6 +1,7 @@
 import useData from "./useData";
 
 export interface Platform {
+    key: number;
     id: number;
     name: string;
     slug: string;
@@ -8,6 +9,7 @@ export interface Platform {
 
 //game model interface
 export interface Game {
+    key:number;
     id: number;
     name: string;
     background_image:string;
