@@ -8,6 +8,7 @@ A react based website made with react and typescript, with live data fetched fro
 ## Geting Started / Config
 
 1.This project was made using React with typescript, so react will be required on your system.
+
 2. Open the project and install all dependencies (using terminal/cli):
 ```
 `npm install`
