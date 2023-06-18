@@ -25,6 +25,6 @@ you can replace with your own apiKey found in project folder services > api_clie
 
 To see my latest UX/UI designs visit 
 
-https://dribble.com/AndreuMod
+https://dribbble.com/AndreuMod
 
 https://www.behance.net/AndreuDavids
