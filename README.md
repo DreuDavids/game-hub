@@ -23,5 +23,7 @@ To get the rawg api visit :https://rawg.io/
 you can replace with your own apiKey found in project folder services > api_clients.ts @params : key'your api key goes there'
 
 To see my latest UX/UI designs visit 
+
 https://dribble.com/AndreuMod
+
 https://www.behance.net/AndreuDavids
